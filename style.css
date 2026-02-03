@@ -22,3 +22,7 @@ h2 {
     color: #574c3c;
     font-family: 'Times New Roman', serif;
 }
+img {
+    align: center;
+    border: solid #6e685a;
+}
